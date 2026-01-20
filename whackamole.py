@@ -5,7 +5,7 @@ BOARD_COLS = 20
 
 WIDTH = 640
 HEIGHT = 512
-#test
+#test2
 
 pygame.init()
 screen = pygame.display.set_mode((WIDTH, HEIGHT))
